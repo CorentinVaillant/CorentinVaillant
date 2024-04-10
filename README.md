@@ -10,8 +10,8 @@
 * HTML/CSS 📄
 
 I also do a lot of other stuff, like 3d art on Blender, or music in my band Gaussip:
-* [Gaussip on Instagram](instagram.com/gaussip) and [our last realese on Spotify](open.spotify.com/album/3wztDVSUZV5jCG5eyyd9FU)  🥁
-* [My 3d creations on Instagram](instagram.com/okkoquelicot_3d) 🎨
+* [Gaussip on Instagram](https://instagram.com/gaussip) and [our last realese on Spotify](https://open.spotify.com/intl-fr/album/3wztDVSUZV5jCG5eyyd9FU)  🥁
+* [My 3d creations on Instagram](https://instagram.com/okkoquelicot_3d) 🎨
 
 📧 You can message me at :
 * [contact.corentin.vaillant@gmail.com](mailto:contact.corentin.vaillant@gmail.com)
