@@ -19,7 +19,7 @@ I also do a lot of other stuff, like 3d art on Blender, or music in my band Gaus
 Thank you for reading this !
 
 
-<div align="center">
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=CorentinVaillant&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=bright" alt="[Corentin's Github Stats]">
     </a>
