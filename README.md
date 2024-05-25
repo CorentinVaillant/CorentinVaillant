@@ -21,6 +21,6 @@ Thank you for reading this !
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yolwoocle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="[Yolwoocle's Github Stats]">
+        <img src="https://github-readme-stats.vercel.app/api?username=CorentinVaillant&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="[Corentin's Github Stats]">
     </a>
 </div>
