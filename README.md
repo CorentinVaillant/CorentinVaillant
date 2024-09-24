@@ -5,6 +5,7 @@
 💁🏻 I am Corentin Vaillant, I study computer science and mathematics at the Toulouse University in France, I am a pretty versatile developer, I know a little bit in web dev, game dev, and other domains. </br>
 🧑🏻‍💻 A list of the programming languages I know :
 * Rust 🦀
+* Java 🍵
 * C/C++ 🇨➕➕
 * Python 🐍
 * HTML/CSS 📄
