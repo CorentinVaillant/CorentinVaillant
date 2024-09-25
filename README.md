@@ -29,6 +29,6 @@ Thank you for reading this !
 
 <div >
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinVaillant&theme=light&show_icons=true&hide_border=true" alt="[Top used languages]">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinVaillant&theme=light&show_icons=true&hide_border=true&layout=compact" alt="[Top used languages]">
     </a>
 </div>
