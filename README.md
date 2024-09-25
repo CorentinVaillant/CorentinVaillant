@@ -8,6 +8,7 @@
 * Java 🍵
 * C/C++ 🇨➕➕
 * Python 🐍
+* Lua 🐱
 * HTML/CSS 📄
 
 I also do a lot of other stuff, like 3d art on Blender, or music in my band Gaussip:
