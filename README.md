@@ -26,3 +26,9 @@ Thank you for reading this !
         <img src="https://github-readme-stats.vercel.app/api?username=CorentinVaillant&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=bright" alt="[Corentin's Github Stats]">
     </a>
 </div>
+
+<div >
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorentinVaillant&theme=light&show_icons=true&hide_border=true" alt="[Top used languages]">
+    </a>
+</div>
