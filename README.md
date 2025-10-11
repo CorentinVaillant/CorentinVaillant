@@ -1,24 +1,24 @@
 <div align="center">
-  <h1>Welcome to my GitHub page!🤗</h1>
+  <h1>👋 Welcome to my GitHub page!</h1>
 </div>
 
-💁🏻 I am Corentin Vaillant, I study computer science and mathematics at the Toulouse University in France, I am a pretty versatile developer, I know a little bit in web dev, game dev, and other domains. </br>
-🧑🏻‍💻 A list of the programming languages I know :
+💁🏻 I am Corentin Vaillant - a computer science and mathematics student at **Toulouse University**, France.  
+My main interest lies in **graphical programming** and applied mathematics in computer science.
+
+
+🧑🏻‍💻 I mainly work with:
+
+* C/C++ 🤖
 * Rust 🦀
-* Java 🍵
-* C/C++ 🇨➕➕
 * Python 🐍
 * Lua 🐱
-* HTML/CSS 📄
 
-I also do a lot of other stuff, like 3d art on Blender, or music in my band Gaussip:
-* [Gaussip on Instagram](https://instagram.com/gaussip) and [our last realese on Spotify](https://open.spotify.com/intl-fr/album/3wztDVSUZV5jCG5eyyd9FU)  🥁
-* [My 3d creations on Instagram](https://instagram.com/okkoquelicot_3d) 🎨
+I also do drums and 3d stuff on Instagram :
+- My band : [Nostral on Instagram](https://www.instagram.com/nostralband/) 🥁
+- My Blender account : [Okkoquelicot on Instagram](https://www.instagram.com/okkoquelicot_3d/) 🐵
 
 📧 You can message me at :
 * [contact.corentin.vaillant@gmail.com](mailto:contact.corentin.vaillant@gmail.com)
-
-Thank you for reading this !
 
 
 <div>
